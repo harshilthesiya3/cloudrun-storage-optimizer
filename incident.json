@@ -1,0 +1,5 @@
+{
+  "incident": {
+    "resource_name": "$IDLE_BUCKET_ARCHIVE"
+  }
+}
